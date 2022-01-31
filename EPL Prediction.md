@@ -1,6 +1,6 @@
 ---
 title: "Prediction of Premier League Performance with Expected Stats"
-author: "Junghoon Kang, Brian Chan, Will Haznaw"
+author: "Junghoon Kang"
 date: '2021 12 13 '
 
 ---
